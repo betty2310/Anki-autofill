@@ -1,0 +1,1 @@
+An [anki](https://apps.ankiweb.net/) adds-on for auto-fill card in Japanese. Like generate Kanji, Setence from words in Expression feild.
